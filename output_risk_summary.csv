@@ -1,0 +1,11 @@
+Entity Schema Name,Entity Relationship,Forms,Model-driven App,Process,Sitemap,Views,** Entity Relationship Risk,** Process Reference Risk,** App Reference Risk,** Other's Reference Risk
+ncs_Vehicle,17,0,1,1,1,0,Low,Low,High,Low
+new_TestRelatedTable,18,0,0,0,0,0,High,Low,Low,Low
+new_TestTable,18,0,0,2,0,0,High,High,Low,Low
+pav_Client,18,0,0,0,0,0,High,Low,Low,Low
+pav_GridViewDatasource,17,0,0,0,0,0,Low,Low,Low,Low
+pav_HouseholdItems,17,0,1,0,1,0,Low,Low,High,Low
+pav_Rental,19,1,1,2,1,2,High,High,High,High
+pav_ServiceHistory,18,1,1,0,1,0,High,Low,High,High
+pav_Vehicle,19,0,1,0,1,3,High,Low,High,High
+pav_VehiclesCSVImport,17,0,0,4,0,0,Low,High,Low,Low
